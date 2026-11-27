@@ -1,0 +1,12 @@
+timestamp,event,account,source,detail
+2026-11-25T18:00:00Z,login_fail,casey,192.0.2.14,bad password
+2026-11-25T18:00:28Z,login_fail,casey,192.0.2.14,bad password
+2026-11-25T18:01:07Z,login_fail,casey,192.0.2.14,bad password
+2026-11-25T18:01:40Z,login_success,casey,192.0.2.14,success
+2026-11-25T18:02:03Z,login_success,jordan,192.0.2.19,success
+2026-11-25T19:40:00Z,login_fail,robin,198.51.100.8,bad password
+2026-11-25T19:40:38Z,login_fail,robin,198.51.100.8,bad password
+2026-11-25T19:41:05Z,login_fail,robin,198.51.100.8,bad password
+2026-11-25T19:41:41Z,login_success,robin,198.51.100.8,success
+2026-11-25T19:43:22Z,role_grant,robin,198.51.100.8,admin
+2026-11-25T20:06:00Z,role_grant,jordan,192.0.2.19,admin
